@@ -1,0 +1,14 @@
+{
+  "source_cloud": {
+    "url": "http://source-cloud.example.com",
+    "api_key": "source-cloud-api-key"
+  },
+  "target_cloud": {
+    "url": "http://target-cloud.example.com",
+    "api_key": "target-cloud-api-key"
+  },
+  "sdn_controller": {
+    "url": "http://sdn-controller.example.com",
+    "auth_token": "sdn-auth-token"
+  }
+}
